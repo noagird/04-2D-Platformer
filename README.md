@@ -1,7 +1,6 @@
 # 2D Platformer
 11/02/2022
 
-Description
 This is a quick 2D platformer I made in Godot!
 
 ## Implementation
