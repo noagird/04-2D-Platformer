@@ -58,7 +58,7 @@ text = "Quit"
 
 [node name="Win" type="AudioStreamPlayer" parent="."]
 stream = ExtResource( 3 )
-volume_db = -5.0
+volume_db = -10.0
 autoplay = true
 
 [connection signal="pressed" from="Play_Again" to="." method="_on_Play_Again_pressed"]
